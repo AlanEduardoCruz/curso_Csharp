@@ -1,0 +1,14 @@
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.AssemblyInfoInputs.cache
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.AssemblyInfo.cs
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.csproj.CoreCompileInputs.cache
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\bin\Debug\net8.0\Funcao.exe
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\bin\Debug\net8.0\Funcao.deps.json
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\bin\Debug\net8.0\Funcao.runtimeconfig.json
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\bin\Debug\net8.0\Funcao.dll
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\bin\Debug\net8.0\Funcao.pdb
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.dll
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\refint\Funcao.dll
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.pdb
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\Funcao.genruntimeconfig.cache
+C:\Users\Alan Eduardo\Desktop\curso-C#\Curso C# - 02\Funcao\Funcao\obj\Debug\net8.0\ref\Funcao.dll
