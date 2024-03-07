@@ -1,0 +1,5 @@
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio6\obj\Debug\net8.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio6\obj\Debug\net8.0\Exercicio6.AssemblyInfo.cs
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio6\obj\Debug\net8.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio6\obj\Debug\net8.0\Exercicio6.sourcelink.json

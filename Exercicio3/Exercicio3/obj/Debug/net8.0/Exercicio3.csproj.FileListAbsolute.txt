@@ -12,3 +12,4 @@ C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio3\Exercicio3\obj\Debug\net8.
 C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.pdb
 C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
 C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio3\Exercicio3\obj\Debug\net8.0\ref\Exercicio3.dll
+C:\Users\Alan Eduardo\Desktop\curso-C#\POO\Exercicio3\Exercicio3\obj\Debug\net8.0\Exercicio3.sourcelink.json
